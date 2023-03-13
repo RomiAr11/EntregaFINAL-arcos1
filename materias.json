@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1 ,
+        "nombre": "matematica" , 
+        "profesor": "pepita", 
+        "dia de cursada": "Martes",
+        "Promedio":10 
+    },
+    {
+        "id": 2 ,
+        "nombre": "Ingles" , 
+        "profesor":"juana" , 
+        "dia de cursada":"miercoles",
+        "Promedio":5 
+    },
+    {
+        "id": 3 ,
+        "nombre": "lengua" , 
+        "profesor":"julio" , 
+        "dia de cursada": "jueves" ,
+        "Promedio":9 
+    },
+    {
+        "id": 4 ,
+        "nombre":  "Quimica", 
+        "profesor":"Sandra" , 
+        "dia de cursada": "Viernes" ,
+        "Promedio":6 
+    }
+]
